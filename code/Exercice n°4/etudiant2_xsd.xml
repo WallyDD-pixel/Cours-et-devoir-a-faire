@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<elevesSIO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<etudiant prenom="Christian" nom="Nissan" />
+<etudiant prenom="Syrine" nom="El Ghoul" />
+<etudiant prenom="Larbi" nom="Bessaci" />
+</elevesSIO>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<competence>
+    <classe id="MG" label="MAGE">
+        <pointsvie>60</pointsvie>
+        <pointsmana>200</pointsmana>
+        <pointsdexterite>50</pointsdexterite>
+        <pointsendurance>50</pointsendurance>
+        <sort>
+            <sort>Boule de feu</sort>
+	    <sort>Tempete de glace</sort>
+	    <sort>Invisibilite</sort>
+        </sort>
+    </classe>
+</competence>

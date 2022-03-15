@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE elevesSIO SYSTEM "etudiant1.dtd">
+<elevesSIO>
+<etudiant> 
+	<prenom>Marveensing</prenom>
+	<nom>Karia</nom>
+</etudiant>
+<etudiant> 
+	<prenom>Sarra</prenom>
+	<nom>Bejaoui</nom>
+</etudiant>
+<etudiant> 
+	<prenom>Clement</prenom>
+	<nom>Fresse</nom>
+</etudiant>
+</elevesSIO>

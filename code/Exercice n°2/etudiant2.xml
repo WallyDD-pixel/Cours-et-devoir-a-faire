@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE elevesSIO SYSTEM "etudiant2.dtd">
+<elevesSIO>
+<etudiant prenom="Clement" nom="Fresse" />
+<etudiant prenom="Syrine" nom="El Ghoul" />
+<etudiant prenom="Wally" nom="Dibombe" />
+</elevesSIO>

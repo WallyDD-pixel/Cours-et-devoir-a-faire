@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE quefaire SYSTEM "quefaire.dtd">
+<quefaire>
+  <theme>
+      <titre>Java</titre>
+      <url>https://www.baeldung.com/java-collections</url>
+	 <serveur> Serveur de test de SIO </serveur>
+  </theme>
+    <theme>
+      <titre>SAS</titre>
+      <url>https://www.sas.com/fr_fr/home.html</url>
+  </theme>
+  <theme>
+        <titre>Javascript</titre>
+        <url>https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference</url>
+  </theme>
+  <theme>
+        <titre>Vue.js</titre>
+        <url>https://fr.vuejs.org/index.html</url>
+  </theme>
+</quefaire>

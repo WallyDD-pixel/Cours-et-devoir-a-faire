@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<elevesSIO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<etudiant>
+	<prenom>Marveensing</prenom>
+	<nom>Karia</nom>
+</etudiant>
+<etudiant> 
+	<prenom>Sarra</prenom>
+	<nom>Bejaoui</nom>
+</etudiant>
+<etudiant> 
+	<prenom>Stephane</prenom>
+	<nom>Lazarevic</nom>
+</etudiant>
+</elevesSIO>

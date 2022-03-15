@@ -1,0 +1,5 @@
+<!ELEMENT quefaire (theme*)>
+<!ELEMENT theme (titre,url) >
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+
